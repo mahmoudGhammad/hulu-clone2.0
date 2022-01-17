@@ -8,7 +8,5 @@ module.exports = {
   },
   plugins: [require('tailwind-scrollbar-hide')],
 
-  flags: {
-    DEV_SSR: false,
-  }
+  
 }
