@@ -3,7 +3,7 @@ import Image from 'next/image'
 import Header from '../Components/Header'
 import Nav from '../Components/Nav'
 import Results from '../Components/Results'
-import Requests from '../Utils/Requests'
+import Requests from '../utils/Requests'
 
 
 
