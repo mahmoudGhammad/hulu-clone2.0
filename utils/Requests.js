@@ -1,6 +1,6 @@
-// const API_KEY = process.env.API_KEY
+const API_KEY = process.env.API_KEY
 
-const API_KEY = '1e7430d8510930d6a10f67bcab5ba386'
+
 
 
 export default {
